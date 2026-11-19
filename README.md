@@ -28,7 +28,7 @@ Portadas: <https://trygo.bemians.com> y <https://customer.bemians.com>.
 - La **descarga oficial** siempre entrega la versión más reciente (el enlace no cambia).
 - En **[Releases](https://github.com/xDarcyLove/Try-Go/releases)** están las versiones publicadas, con sus notas y su huella SHA-256.
 - Requisito: **Android 7.0 o superior**.
-- TryGo Business **1.0.13 es la versión mínima**: las anteriores ya no se conectan y la app pide actualizar.
+- TryGo Business **1.0.12 es la versión mínima**: las anteriores ya no se conectan y la app pide actualizar.
 
 ## Instalar o actualizar
 
