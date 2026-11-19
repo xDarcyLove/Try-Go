@@ -22,13 +22,13 @@ Portadas: <https://trygo.bemians.com> y <https://customer.bemians.com>.
 
 | App | Versión | Descarga oficial | GitHub |
 | --- | --- | --- | --- |
-| **TryGo Business** | 1.0.12 | [trygo-business.apk](https://api.bemians.com/descargas/trygo-business.apk) | [Release 1.0.12](https://github.com/xDarcyLove/Try-Go/releases/tag/business-v1.0.12) |
+| **TryGo Business** | 1.0.13 | [trygo-business.apk](https://api.bemians.com/descargas/trygo-business.apk) | [Release 1.0.13](https://github.com/xDarcyLove/Try-Go/releases/tag/business-v1.0.13) |
 | **TryGo** | 1.0.6 | [trygo.apk](https://api.bemians.com/descargas/trygo.apk) | [Release 1.0.6](https://github.com/xDarcyLove/Try-Go/releases/tag/clientes-v1.0.6) |
 
 - La **descarga oficial** siempre entrega la versión más reciente (el enlace no cambia).
 - En **[Releases](https://github.com/xDarcyLove/Try-Go/releases)** están las versiones publicadas, con sus notas y su huella SHA-256.
 - Requisito: **Android 7.0 o superior**.
-- TryGo Business **1.0.12 es la versión mínima**: las anteriores ya no se conectan y la app pide actualizar.
+- TryGo Business **1.0.13 es la versión mínima**: las anteriores ya no se conectan y la app pide actualizar.
 
 ## Instalar o actualizar
 
@@ -46,11 +46,11 @@ Compara la huella **SHA-256** del archivo con la publicada en su Release:
 
 | Archivo | SHA-256 |
 | --- | --- |
-| `TryGo-Business-1.0.12.apk` | `dbc1115ffb1c0e52ffe5de3733e5110cb6fd703380c1953dece9c073bf12f826` |
+| `TryGo-Business-1.0.13.apk` | `a8b592a9c30177e76f006c69a3a4500548689b98c6f4c4500b81b3f4f00838db` |
 | `TryGo-1.0.6.apk` | `a89b38c99b7c8c90d0b0b47f583b2a9853cf7c112df6aca59fb98a0b23baf620` |
 
-- Windows (PowerShell): `Get-FileHash .\TryGo-Business-1.0.12.apk -Algorithm SHA256`
-- macOS: `shasum -a 256 TryGo-Business-1.0.12.apk` · Linux: `sha256sum TryGo-Business-1.0.12.apk`
+- Windows (PowerShell): `Get-FileHash .\TryGo-Business-1.0.13.apk -Algorithm SHA256`
+- macOS: `shasum -a 256 TryGo-Business-1.0.13.apk` · Linux: `sha256sum TryGo-Business-1.0.13.apk`
 
 Las dos apps están firmadas con el mismo certificado. Huella SHA-256 del certificado:
 `23:93:03:99:48:A2:54:D5:03:5B:1D:31:23:A0:60:32:85:7F:2F:5C:A7:BC:E0:17:82:87:8D:4D:C9:E1:B0:0E`
